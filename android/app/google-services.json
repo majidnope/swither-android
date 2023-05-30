@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "359667153803",
+    "project_id": "switcher-e7867",
+    "storage_bucket": "switcher-e7867.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:359667153803:android:645587ffdba15b036c4d8e",
+        "android_client_info": {
+          "package_name": "com.switchers"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJUMZ91a7oNigXA1IX7VBIVKVdrjvolOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
